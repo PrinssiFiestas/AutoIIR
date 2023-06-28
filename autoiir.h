@@ -1,3 +1,7 @@
+/* MIT License
+ * Copyright (c) 2023 Lauri Fiestas
+ * https://github.com/PrinssiFiestas/AutoIIR/blob/main/LICENSE */
+
 #ifndef AUTOIIR_H
 #define AUTOIIR_H
 
