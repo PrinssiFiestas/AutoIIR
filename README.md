@@ -1,3 +1,5 @@
+OLD REPO I'm not maintaining this anymore. Improved repo [here](https://github.com/PrinssiFiestas/DSP).
+
 # AutoIIR
 Easy to use stb-style IIR filter library for audio processing loops. The goal was to get as close as possible to allow the user just call a filter function in processing loop and focus on the creative side of audio programming. 
 
